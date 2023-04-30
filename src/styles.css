@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+	overflow: -moz-hidden-unscrollable;
+}
+canvas {
+  display: block;
+}
+.head1{
+  text-align: center;
+  background-image: url("https://i.pinimg.com/736x/75/d0/84/75d0849fbc3f9db47f0010767ca20cbf.jpg");
+  color: aliceblue;
+}
